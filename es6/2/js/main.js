@@ -26,18 +26,18 @@ function generaRandom(min, max){
 let arraySquadre = [
   {
     'nome' : 'x',
-    'punti' : 'x',
-    'falli' : 'x'
+    'punti' : 0,
+    'falli' : 0
   },
   {
     'nome' : 'x',
-    'punti' : 'x',
-    'falli' : 'x'
+    'punti' : 0,
+    'falli' : 0
   },
   {
     'nome' : 'x',
-    'punti' : 'x',
-    'falli' : 'x'
+    'punti' : 0,
+    'falli' : 0
   }
 ];
 
